@@ -7,7 +7,7 @@
 
 I'm an MBA student exploring Business Analytics, AI, and technology to turn ideas into practical solutions.
 
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/nisha-nagaraju)
+[![GitHub](https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github)](https://github.com/nishanagaraju)
 
 </div>
 
@@ -17,11 +17,11 @@ I'm an MBA student exploring Business Analytics, AI, and technology to turn idea
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nisha-nagaraju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishanagaraju&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nisha-nagaraju&layout=compact&theme=tokyonight&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nishanagaraju&layout=compact&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=nisha-nagaraju&theme=tokyonight&hide_border=true)
+![GitHub Streak](https://streak-stats.demolab.com?user=nishanagaraju&theme=tokyonight&hide_border=true)
 
 </div>
 
